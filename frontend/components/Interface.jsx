@@ -28,6 +28,10 @@ const Interface = () => {
     ) : (
       <div onClick={connectMetamask} >Connect Metamask</div>
     )}
+
+    <div><hr /></div>
+
+    
     </>
   )
 }
